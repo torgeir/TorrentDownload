@@ -31,6 +31,7 @@ public class FileUpload extends HttpServlet {
         try {
             List<FileItem> items = upload.parseRequest(request);
             
+            
             for (FileItem item: items) {
             	
                 InputStream inputStream = item.getInputStream();
