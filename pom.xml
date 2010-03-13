@@ -74,6 +74,7 @@
 			<artifactId>commons-dbcp</artifactId>
 			<version>1.2.2</version>
 		</dependency>
+		<!-- 
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-annotations</artifactId>
@@ -99,7 +100,7 @@
 			<artifactId>commons-beanutils</artifactId>
 			<version>1.8.2</version>
 		</dependency>
-
+		-->
 		<!-- File upload -->
 		<dependency>
 			<groupId>commons-io</groupId>
